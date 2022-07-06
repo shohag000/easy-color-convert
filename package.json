@@ -1,0 +1,27 @@
+{
+  "name": "easy-color-convert",
+  "version": "1.0.0",
+  "description": "Color conversion from plain string",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shohag000/easy-color-convert.git"
+  },
+  "keywords": [
+    "color"
+  ],
+  "author": "Md. Sanaur Rahman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shohag000/easy-color-convert/issues"
+  },
+  "homepage": "https://github.com/shohag000/easy-color-convert#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
